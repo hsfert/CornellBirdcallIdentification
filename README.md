@@ -1,5 +1,5 @@
 # Cornell Birdcall Identification
-140th Place Solution to Kaggle competition Cornell BirdCall Identification  
+140th Place Solution to Kaggle competition [Cornell BirdCall Identification](https://www.kaggle.com/c/birdsong-recognition).
   
 The idea is that sound file can be converted to an "image" format and use the usual techquies of visual recognition to train and predict on the bird sound dataset.
 
@@ -9,4 +9,4 @@ The 2D matrix being transformed can be viewed as a 2D mono image. By stacking up
   
 Usual techquies of augmenting the picture can be applied, particularly croping and random rotation is used to improve resilience of the model. 
 
-For the model files used in this solution, please find in https://www.kaggle.com/hsfert/birdsong-resnet101/.
+For the model files used in this solution, please find in [here](https://www.kaggle.com/hsfert/birdsong-resnet101/).
